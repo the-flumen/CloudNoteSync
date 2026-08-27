@@ -19,7 +19,6 @@ assignees: ''
 
 
 ### Labels
-- Estimated time: `E: 2h`
 - Group : `server`, `client`
 - Milestone: `M__NUMBER__`
 - Urgency: `High`, `Middle`, `Low`
